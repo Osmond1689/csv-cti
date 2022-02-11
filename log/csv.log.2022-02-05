@@ -1,0 +1,749 @@
+[2022-02-05 11:04:19,708][md5_token.py:25][INFO][139687210366720] - 鉴权时间戳是:1644030240 1644030180
+[2022-02-05 11:04:23,698][md5_token.py:25][INFO][139687210366720] - 鉴权时间戳是:1644030240 1644030180
+[2022-02-05 11:06:26,419][md5_token.py:25][INFO][139687210366720] - 鉴权时间戳是:1644030360 1644030300
+[2022-02-05 11:06:26,455][groups.py:93][INFO][139687210366720] - /groups-list/ 查询成功
+[2022-02-05 11:37:53,629][md5_token.py:25][INFO][139687210366720] - 鉴权时间戳是:1644032220 1644032160
+[2022-02-05 11:50:23,171][md5_token.py:25][INFO][139687210366720] - 鉴权时间戳是:1644033000 1644032940
+[2022-02-05 11:50:43,554][md5_token.py:25][INFO][139687210366720] - 鉴权时间戳是:1644033000 1644032940
+[2022-02-05 11:51:14,434][md5_token.py:25][INFO][139687210366720] - 鉴权时间戳是:1644033060 1644033000
+[2022-02-05 11:53:18,758][md5_token.py:25][INFO][139687210366720] - 鉴权时间戳是:1644033180 1644033120
+[2022-02-05 11:53:18,773][groups.py:93][INFO][139687210366720] - /groups-list/ 查询成功
+[2022-02-05 12:00:44,404][md5_token.py:25][INFO][139687210366720] - 鉴权时间戳是:1644033600 1644033540
+[2022-02-05 12:00:44,419][groups.py:93][INFO][139687210366720] - /groups-list/ 查询成功
+[2022-02-05 12:07:44,290][md5_token.py:25][INFO][139687210366720] - 鉴权时间戳是:1644034020 1644033960
+[2022-02-05 12:07:44,304][groups.py:93][INFO][139687210366720] - /groups-list/ 查询成功
+[2022-02-05 12:09:00,880][md5_token.py:25][INFO][139687210366720] - 鉴权时间戳是:1644034140 1644034080
+[2022-02-05 12:09:00,895][groups.py:93][INFO][139687210366720] - /groups-list/ 查询成功
+[2022-02-05 12:13:10,173][md5_token.py:25][INFO][139687210366720] - 鉴权时间戳是:1644034380 1644034320
+[2022-02-05 12:13:10,211][agents.py:141][INFO][139687210366720] - /agents-status/ 80001 查询失败，座席号不存在
+[2022-02-05 12:13:23,077][md5_token.py:25][INFO][139687210366720] - 鉴权时间戳是:1644034380 1644034320
+[2022-02-05 12:13:23,087][agents.py:141][INFO][139687210366720] - /agents-status/ 80001 查询失败，座席号不存在
+[2022-02-05 12:14:23,567][md5_token.py:25][INFO][139687210366720] - 鉴权时间戳是:1644034440 1644034380
+[2022-02-05 12:14:23,577][agents.py:141][INFO][139687210366720] - /agents-status/ 80001 查询失败，座席号不存在
+[2022-02-05 12:14:55,202][md5_token.py:25][INFO][139687210366720] - 鉴权时间戳是:1644034440 1644034380
+[2022-02-05 12:14:55,213][agents.py:141][INFO][139687210366720] - /agents-status/ 80001 查询失败，座席号不存在
+[2022-02-05 12:15:46,061][md5_token.py:25][INFO][139687210366720] - 鉴权时间戳是:1644034500 1644034440
+[2022-02-05 12:15:46,071][agents.py:141][INFO][139687210366720] - /agents-status/ 80001 查询失败，座席号不存在
+[2022-02-05 12:17:33,742][md5_token.py:25][INFO][139687210366720] - 鉴权时间戳是:1644034620 1644034560
+[2022-02-05 12:17:33,753][agents.py:141][INFO][139687210366720] - /agents-status/ 80001 查询失败，座席号不存在
+[2022-02-05 12:18:02,820][md5_token.py:25][INFO][139687210366720] - 鉴权时间戳是:1644034680 1644034620
+[2022-02-05 12:18:02,830][agents.py:141][INFO][139687210366720] - /agents-status/ 80001 查询失败，座席号不存在
+[2022-02-05 12:20:22,242][md5_token.py:25][INFO][139687210366720] - 鉴权时间戳是:1644034800 1644034740
+[2022-02-05 12:20:22,256][groups.py:93][INFO][139687210366720] - /groups-list/ 查询成功
+[2022-02-05 12:20:26,519][md5_token.py:25][INFO][139687210366720] - 鉴权时间戳是:1644034800 1644034740
+[2022-02-05 12:20:26,529][agents.py:141][INFO][139687210366720] - /agents-status/ 80001 查询失败，座席号不存在
+[2022-02-05 12:22:24,017][md5_token.py:25][INFO][139687210366720] - 鉴权时间戳是:1644034920 1644034860
+[2022-02-05 12:22:24,027][agents.py:141][INFO][139687210366720] - /agents-status/ 80001 查询失败，座席号不存在
+[2022-02-05 12:22:34,902][md5_token.py:25][INFO][139687210366720] - 鉴权时间戳是:1644034920 1644034860
+[2022-02-05 12:22:34,911][agents.py:141][INFO][139687210366720] - /agents-status/ 80001 查询失败，座席号不存在
+[2022-02-05 12:24:16,308][md5_token.py:25][INFO][139687210366720] - 鉴权时间戳是:1644035040 1644034980
+[2022-02-05 12:24:16,317][agents.py:141][INFO][139687210366720] - /agents-status/ 80001 查询失败，座席号不存在
+[2022-02-05 12:50:12,582][md5_token.py:25][INFO][139687210366720] - 鉴权时间戳是:1644036600 1644036540
+[2022-02-05 12:50:12,583][agents.py:222][INFO][139687210366720] - login 确少参数
+[2022-02-05 12:54:47,997][md5_token.py:25][INFO][139687210366720] - 鉴权时间戳是:1644036840 1644036780
+[2022-02-05 12:54:47,998][agents.py:222][INFO][139687210366720] - login 确少参数
+[2022-02-05 12:55:53,042][md5_token.py:25][INFO][139687210366720] - 鉴权时间戳是:1644036900 1644036840
+[2022-02-05 12:55:53,043][agents.py:222][INFO][139687210366720] - login 确少参数
+[2022-02-05 14:46:17,448][md5_token.py:25][INFO][139687210366720] - 鉴权时间戳是:1644043560 1644043500
+[2022-02-05 14:46:17,456][agents.py:136][DEBUG][139687210366720] - /agents-login/ 数据库操作失败：(psycopg2.OperationalError) terminating connection due to administrator command
+server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+
+[SQL: SELECT agents.id AS agents_id, agents.name AS agents_name, agents."group" AS agents_group, agents.password AS agents_password, agents.instance_id AS agents_instance_id, agents.uuid AS agents_uuid, agents.type AS agents_type, agents.contact AS agents_contact, agents.status AS agents_status, agents.state AS agents_state, agents.max_no_answer AS agents_max_no_answer, agents.wrap_up_time AS agents_wrap_up_time, agents.reject_delay_time AS agents_reject_delay_time, agents.busy_delay_time AS agents_busy_delay_time, agents.no_answer_delay_time AS agents_no_answer_delay_time, agents.last_bridge_start AS agents_last_bridge_start, agents.last_bridge_end AS agents_last_bridge_end, agents.last_offered_call AS agents_last_offered_call, agents.last_status_change AS agents_last_status_change, agents.no_answer_count AS agents_no_answer_count, agents.calls_answered AS agents_calls_answered, agents.talk_time AS agents_talk_time, agents.ready_time AS agents_ready_time, agents.external_calls_count AS agents_external_calls_count 
+FROM agents 
+WHERE agents.name = %(name_1)s AND agents."group" = %(group_1)s ORDER BY agents.id DESC 
+ LIMIT %(param_1)s OFFSET %(param_2)s]
+[parameters: {'name_1': '80001', 'group_1': 'T91', 'param_1': 10, 'param_2': 0}]
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+[2022-02-05 14:46:20,658][md5_token.py:25][INFO][139687210366720] - 鉴权时间戳是:1644043560 1644043500
+[2022-02-05 14:46:23,467][agents.py:136][DEBUG][139687210366720] - /agents-login/ 数据库操作失败：(psycopg2.OperationalError) connection to server at "172.17.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+[2022-02-05 14:46:28,823][md5_token.py:25][INFO][139687210366720] - 鉴权时间戳是:1644043560 1644043500
+[2022-02-05 14:46:29,479][groups.py:89][DEBUG][139687210366720] - /groups-list/ 数据库操作失败：(psycopg2.OperationalError) connection to server at "172.17.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+[2022-02-05 14:46:42,822][md5_token.py:25][INFO][139687210366720] - 鉴权时间戳是:1644043560 1644043500
+[2022-02-05 14:46:44,511][groups.py:89][DEBUG][139687210366720] - /groups-list/ 数据库操作失败：(psycopg2.OperationalError) connection to server at "172.17.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+[2022-02-05 14:47:28,279][md5_token.py:25][INFO][139687603713792] - 鉴权时间戳是:1644043620 1644043560
+[2022-02-05 14:47:29,601][groups.py:89][DEBUG][139687603713792] - /groups-list/ 数据库操作失败：(psycopg2.OperationalError) connection to server at "172.17.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+[2022-02-05 14:47:38,054][md5_token.py:25][INFO][139687603713792] - 鉴权时间戳是:1644043620 1644043560
+[2022-02-05 14:47:38,619][groups.py:89][DEBUG][139687603713792] - /groups-list/ 数据库操作失败：(psycopg2.OperationalError) connection to server at "172.17.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+[2022-02-05 14:48:13,689][md5_token.py:25][INFO][139687603713792] - 鉴权时间戳是:1644043680 1644043620
+[2022-02-05 14:48:13,693][groups.py:89][DEBUG][139687603713792] - /groups-list/ 数据库操作失败：(psycopg2.OperationalError) connection to server at "172.17.0.2", port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+[2022-02-05 14:48:54,220][md5_token.py:25][INFO][139687603713792] - 鉴权时间戳是:1644043680 1644043620
+[2022-02-05 14:48:54,224][groups.py:89][DEBUG][139687603713792] - /groups-list/ 数据库操作失败：(psycopg2.OperationalError) connection to server at "172.17.0.2", port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+[2022-02-05 14:49:18,501][md5_token.py:25][INFO][139687603713792] - 鉴权时间戳是:1644043740 1644043680
+[2022-02-05 14:49:18,505][groups.py:89][DEBUG][139687603713792] - /groups-list/ 数据库操作失败：(psycopg2.OperationalError) connection to server at "172.17.0.2", port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+[2022-02-05 14:49:27,909][md5_token.py:25][INFO][139687603713792] - 鉴权时间戳是:1644043740 1644043680
+[2022-02-05 14:49:27,912][groups.py:89][DEBUG][139687603713792] - /groups-list/ 数据库操作失败：(psycopg2.OperationalError) connection to server at "172.17.0.2", port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+[2022-02-05 14:50:21,760][md5_token.py:25][INFO][139687603713792] - 鉴权时间戳是:1644043800 1644043740
+[2022-02-05 14:50:21,765][groups.py:89][DEBUG][139687603713792] - /groups-list/ 数据库操作失败：(psycopg2.OperationalError) connection to server at "172.17.0.2", port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+[2022-02-05 14:51:27,020][md5_token.py:25][INFO][139955183539968] - 鉴权时间戳是:1644043860 1644043800
+[2022-02-05 14:51:27,119][groups.py:93][INFO][139955183539968] - /groups-list/ 查询成功
+[2022-02-05 14:51:34,007][md5_token.py:25][INFO][139955183539968] - 鉴权时间戳是:1644043860 1644043800
+[2022-02-05 14:51:34,059][agents.py:141][INFO][139955183539968] - /agents-status/ 80001 查询失败，座席号不存在
+[2022-02-05 14:51:44,493][md5_token.py:25][INFO][139955183539968] - 鉴权时间戳是:1644043860 1644043800
+[2022-02-05 14:51:44,530][agents.py:105][INFO][139955183539968] - /agents-list/ 查询成功
+[2022-02-05 14:51:44,588][md5_token.py:25][INFO][139955183539968] - 鉴权时间戳是:1644043860 1644043800
+[2022-02-05 14:51:44,600][agents.py:105][INFO][139955183539968] - /agents-list/ 查询成功
+[2022-02-05 14:51:44,618][md5_token.py:25][INFO][139955183539968] - 鉴权时间戳是:1644043860 1644043800
+[2022-02-05 14:51:44,632][groups.py:93][INFO][139955183539968] - /groups-list/ 查询成功
+[2022-02-05 14:51:48,766][md5_token.py:25][INFO][139955183539968] - 鉴权时间戳是:1644043860 1644043800
+[2022-02-05 14:51:48,777][agents.py:101][DEBUG][139955183539968] - /agents-list/ 数据库操作失败：(psycopg2.ProgrammingError) can't adapt type 'builtin_function_or_method'
+[SQL: SELECT agents.id AS agents_id, agents.name AS agents_name, agents."group" AS agents_group, agents.password AS agents_password, agents.instance_id AS agents_instance_id, agents.uuid AS agents_uuid, agents.type AS agents_type, agents.contact AS agents_contact, agents.status AS agents_status, agents.state AS agents_state, agents.max_no_answer AS agents_max_no_answer, agents.wrap_up_time AS agents_wrap_up_time, agents.reject_delay_time AS agents_reject_delay_time, agents.busy_delay_time AS agents_busy_delay_time, agents.no_answer_delay_time AS agents_no_answer_delay_time, agents.last_bridge_start AS agents_last_bridge_start, agents.last_bridge_end AS agents_last_bridge_end, agents.last_offered_call AS agents_last_offered_call, agents.last_status_change AS agents_last_status_change, agents.no_answer_count AS agents_no_answer_count, agents.calls_answered AS agents_calls_answered, agents.talk_time AS agents_talk_time, agents.ready_time AS agents_ready_time, agents.external_calls_count AS agents_external_calls_count 
+FROM agents 
+WHERE agents."group" = %(group_1)s ORDER BY agents.id DESC 
+ LIMIT %(param_1)s OFFSET %(param_2)s]
+[parameters: {'group_1': <built-in method upper of str object at 0x7f49be5706b0>, 'param_1': 10, 'param_2': 0}]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+[2022-02-05 14:51:53,920][md5_token.py:25][INFO][139955183539968] - 鉴权时间戳是:1644043860 1644043800
+[2022-02-05 14:51:53,926][agents.py:101][DEBUG][139955183539968] - /agents-list/ 数据库操作失败：(psycopg2.ProgrammingError) can't adapt type 'builtin_function_or_method'
+[SQL: SELECT agents.id AS agents_id, agents.name AS agents_name, agents."group" AS agents_group, agents.password AS agents_password, agents.instance_id AS agents_instance_id, agents.uuid AS agents_uuid, agents.type AS agents_type, agents.contact AS agents_contact, agents.status AS agents_status, agents.state AS agents_state, agents.max_no_answer AS agents_max_no_answer, agents.wrap_up_time AS agents_wrap_up_time, agents.reject_delay_time AS agents_reject_delay_time, agents.busy_delay_time AS agents_busy_delay_time, agents.no_answer_delay_time AS agents_no_answer_delay_time, agents.last_bridge_start AS agents_last_bridge_start, agents.last_bridge_end AS agents_last_bridge_end, agents.last_offered_call AS agents_last_offered_call, agents.last_status_change AS agents_last_status_change, agents.no_answer_count AS agents_no_answer_count, agents.calls_answered AS agents_calls_answered, agents.talk_time AS agents_talk_time, agents.ready_time AS agents_ready_time, agents.external_calls_count AS agents_external_calls_count 
+FROM agents 
+WHERE agents."group" = %(group_1)s ORDER BY agents.id DESC 
+ LIMIT %(param_1)s OFFSET %(param_2)s]
+[parameters: {'group_1': <built-in method upper of str object at 0x7f49be57fe30>, 'param_1': 10, 'param_2': 0}]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+[2022-02-05 14:52:00,728][md5_token.py:25][INFO][139955183539968] - 鉴权时间戳是:1644043920 1644043860
+[2022-02-05 14:52:00,741][agents.py:105][INFO][139955183539968] - /agents-list/ 查询成功
+[2022-02-05 14:52:20,459][md5_token.py:25][INFO][139955183539968] - 鉴权时间戳是:1644043920 1644043860
+[2022-02-05 14:52:20,472][agents.py:105][INFO][139955183539968] - /agents-list/ 查询成功
+[2022-02-05 14:52:20,493][md5_token.py:25][INFO][139955183539968] - 鉴权时间戳是:1644043920 1644043860
+[2022-02-05 14:52:20,506][groups.py:93][INFO][139955183539968] - /groups-list/ 查询成功
+[2022-02-05 14:52:20,526][md5_token.py:25][INFO][139955183539968] - 鉴权时间戳是:1644043920 1644043860
+[2022-02-05 14:52:20,538][agents.py:105][INFO][139955183539968] - /agents-list/ 查询成功
+[2022-02-05 14:52:36,975][md5_token.py:25][INFO][139955183539968] - 鉴权时间戳是:1644043920 1644043860
+[2022-02-05 14:52:36,988][groups.py:93][INFO][139955183539968] - /groups-list/ 查询成功
+[2022-02-05 14:52:42,511][md5_token.py:25][INFO][139955183539968] - 鉴权时间戳是:1644043920 1644043860
+[2022-02-05 14:52:42,523][agents.py:154][INFO][139955183539968] - /agents-status/ 80001 查询状态失败，密码错误
+[2022-02-05 14:53:11,007][md5_token.py:25][INFO][139955183539968] - 鉴权时间戳是:1644043980 1644043920
+[2022-02-05 14:53:11,012][agents.py:101][DEBUG][139955183539968] - /agents-list/ 数据库操作失败：(psycopg2.ProgrammingError) can't adapt type 'builtin_function_or_method'
+[SQL: SELECT agents.id AS agents_id, agents.name AS agents_name, agents."group" AS agents_group, agents.password AS agents_password, agents.instance_id AS agents_instance_id, agents.uuid AS agents_uuid, agents.type AS agents_type, agents.contact AS agents_contact, agents.status AS agents_status, agents.state AS agents_state, agents.max_no_answer AS agents_max_no_answer, agents.wrap_up_time AS agents_wrap_up_time, agents.reject_delay_time AS agents_reject_delay_time, agents.busy_delay_time AS agents_busy_delay_time, agents.no_answer_delay_time AS agents_no_answer_delay_time, agents.last_bridge_start AS agents_last_bridge_start, agents.last_bridge_end AS agents_last_bridge_end, agents.last_offered_call AS agents_last_offered_call, agents.last_status_change AS agents_last_status_change, agents.no_answer_count AS agents_no_answer_count, agents.calls_answered AS agents_calls_answered, agents.talk_time AS agents_talk_time, agents.ready_time AS agents_ready_time, agents.external_calls_count AS agents_external_calls_count 
+FROM agents 
+WHERE agents."group" = %(group_1)s ORDER BY agents.id DESC 
+ LIMIT %(param_1)s OFFSET %(param_2)s]
+[parameters: {'group_1': <built-in method upper of str object at 0x7f49be57b430>, 'param_1': 10, 'param_2': 0}]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+[2022-02-05 14:53:14,053][md5_token.py:25][INFO][139955183539968] - 鉴权时间戳是:1644043980 1644043920
+[2022-02-05 14:53:14,065][agents.py:105][INFO][139955183539968] - /agents-list/ 查询成功
+[2022-02-05 14:53:25,086][md5_token.py:25][INFO][139955183539968] - 鉴权时间戳是:1644043980 1644043920
+[2022-02-05 14:53:25,099][groups.py:93][INFO][139955183539968] - /groups-list/ 查询成功
+[2022-02-05 14:53:29,697][md5_token.py:25][INFO][139955183539968] - 鉴权时间戳是:1644043980 1644043920
+[2022-02-05 14:53:29,703][agents.py:101][DEBUG][139955183539968] - /agents-list/ 数据库操作失败：(psycopg2.ProgrammingError) can't adapt type 'builtin_function_or_method'
+[SQL: SELECT agents.id AS agents_id, agents.name AS agents_name, agents."group" AS agents_group, agents.password AS agents_password, agents.instance_id AS agents_instance_id, agents.uuid AS agents_uuid, agents.type AS agents_type, agents.contact AS agents_contact, agents.status AS agents_status, agents.state AS agents_state, agents.max_no_answer AS agents_max_no_answer, agents.wrap_up_time AS agents_wrap_up_time, agents.reject_delay_time AS agents_reject_delay_time, agents.busy_delay_time AS agents_busy_delay_time, agents.no_answer_delay_time AS agents_no_answer_delay_time, agents.last_bridge_start AS agents_last_bridge_start, agents.last_bridge_end AS agents_last_bridge_end, agents.last_offered_call AS agents_last_offered_call, agents.last_status_change AS agents_last_status_change, agents.no_answer_count AS agents_no_answer_count, agents.calls_answered AS agents_calls_answered, agents.talk_time AS agents_talk_time, agents.ready_time AS agents_ready_time, agents.external_calls_count AS agents_external_calls_count 
+FROM agents 
+WHERE agents."group" = %(group_1)s ORDER BY agents.id DESC 
+ LIMIT %(param_1)s OFFSET %(param_2)s]
+[parameters: {'group_1': <built-in method upper of str object at 0x7f49be57e2f0>, 'param_1': 10, 'param_2': 0}]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+[2022-02-05 14:53:33,389][md5_token.py:25][INFO][139955183539968] - 鉴权时间戳是:1644043980 1644043920
+[2022-02-05 14:53:33,401][agents.py:105][INFO][139955183539968] - /agents-list/ 查询成功
+[2022-02-05 14:54:00,935][md5_token.py:25][INFO][139955183539968] - 鉴权时间戳是:1644044040 1644043980
+[2022-02-05 14:54:00,948][agents.py:105][INFO][139955183539968] - /agents-list/ 查询成功
+[2022-02-05 14:54:16,108][md5_token.py:25][INFO][139955183539968] - 鉴权时间戳是:1644044040 1644043980
+[2022-02-05 14:54:16,122][agents.py:154][INFO][139955183539968] - /agents-status/ 80001 查询状态失败，密码错误
+[2022-02-05 14:55:30,403][md5_token.py:25][INFO][139955183539968] - 鉴权时间戳是:1644044100 1644044040
+[2022-02-05 14:55:38,501][md5_token.py:25][INFO][139955183539968] - 鉴权时间戳是:1644044100 1644044040
+[2022-02-05 14:56:33,069][md5_token.py:25][INFO][139969804879616] - 鉴权时间戳是:1644044160 1644044100
+[2022-02-05 14:57:12,711][md5_token.py:25][INFO][139969804879616] - 鉴权时间戳是:1644044220 1644044160
+[2022-02-05 14:57:12,773][agents.py:209][INFO][139969804879616] - /agents-login/ 80001 签入成功
+[2022-02-05 15:22:55,959][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644045720 1644045660
+[2022-02-05 15:46:13,757][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644047160 1644047100
+[2022-02-05 15:46:28,513][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644047160 1644047100
+[2022-02-05 15:47:00,963][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644047220 1644047160
+[2022-02-05 15:47:41,372][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644047220 1644047160
+[2022-02-05 15:48:24,305][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644047280 1644047220
+[2022-02-05 15:48:24,318][agents.py:213][INFO][139898716231424] - /agents-Bind/ 80001 签入失败，密码错误
+[2022-02-05 15:48:30,345][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644047280 1644047220
+[2022-02-05 15:48:36,402][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644047280 1644047220
+[2022-02-05 16:01:35,227][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644048060 1644048000
+[2022-02-05 16:01:50,092][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644048060 1644048000
+[2022-02-05 16:01:52,491][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644048060 1644048000
+[2022-02-05 16:03:54,314][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644048180 1644048120
+[2022-02-05 16:03:55,865][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644048180 1644048120
+[2022-02-05 16:03:55,909][agents.py:209][INFO][139898716231424] - /agents-login/ 80001 签入成功
+[2022-02-05 16:25:40,623][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644049500 1644049440
+[2022-02-05 16:25:42,847][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644049500 1644049440
+[2022-02-05 16:25:42,885][agents.py:209][INFO][139898716231424] - /agents-login/ 80001 签入成功
+[2022-02-05 16:25:45,254][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644049500 1644049440
+[2022-02-05 16:25:46,663][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644049500 1644049440
+[2022-02-05 16:25:46,691][agents.py:209][INFO][139898716231424] - /agents-login/ 80001 签入成功
+[2022-02-05 16:27:35,404][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644049620 1644049560
+[2022-02-05 16:27:37,000][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644049620 1644049560
+[2022-02-05 16:27:37,030][agents.py:209][INFO][139898716231424] - /agents-login/ 80001 签入成功
+[2022-02-05 16:36:40,503][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644050160 1644050100
+[2022-02-05 16:41:57,138][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644050460 1644050400
+[2022-02-05 16:41:58,461][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644050460 1644050400
+[2022-02-05 16:41:58,461][agents.py:218][INFO][139898716231424] - Bind 确少参数
+[2022-02-05 16:42:25,100][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644050520 1644050460
+[2022-02-05 16:42:27,414][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644050520 1644050460
+[2022-02-05 16:42:27,449][agents.py:209][INFO][139898716231424] - /agents-login/ 80001 签入成功
+[2022-02-05 16:42:32,365][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644050520 1644050460
+[2022-02-05 16:43:11,618][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644050580 1644050520
+[2022-02-05 16:43:44,265][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644050580 1644050520
+[2022-02-05 16:43:45,471][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644050580 1644050520
+[2022-02-05 16:43:45,504][agents.py:209][INFO][139898716231424] - /agents-login/ 80001 签入成功
+[2022-02-05 16:43:49,615][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644050580 1644050520
+[2022-02-05 16:44:59,362][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644050640 1644050580
+[2022-02-05 16:45:00,507][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644050700 1644050640
+[2022-02-05 16:45:00,541][agents.py:209][INFO][139898716231424] - /agents-login/ 80001 签入成功
+[2022-02-05 16:45:04,348][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644050700 1644050640
+[2022-02-05 16:45:59,023][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644050700 1644050640
+[2022-02-05 16:46:00,692][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644050760 1644050700
+[2022-02-05 16:46:00,722][agents.py:209][INFO][139898716231424] - /agents-login/ 80001 签入成功
+[2022-02-05 16:46:04,947][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644050760 1644050700
+[2022-02-05 16:46:04,989][agents.py:262][INFO][139898716231424] - /agents-out/ 签出成功
+[2022-02-05 16:46:16,525][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644050760 1644050700
+[2022-02-05 16:46:16,550][agents.py:209][INFO][139898716231424] - /agents-login/ 80001 签入成功
+[2022-02-05 16:52:03,450][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644051120 1644051060
+[2022-02-05 16:52:03,520][agents.py:262][INFO][139898716231424] - /agents-out/ 签出成功
+[2022-02-05 16:52:32,453][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644051120 1644051060
+[2022-02-05 16:52:32,465][agents.py:274][INFO][139898716231424] - /agents-logout/ 80001 签出失败，密码错误
+[2022-02-05 16:52:40,111][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644051120 1644051060
+[2022-02-05 16:52:40,136][agents.py:209][INFO][139898716231424] - /agents-login/ 80001 签入成功
+[2022-02-05 16:52:45,239][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644051120 1644051060
+[2022-02-05 16:52:45,261][agents.py:262][INFO][139898716231424] - /agents-out/ 签出成功
+[2022-02-05 16:52:49,854][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644051120 1644051060
+[2022-02-05 16:52:49,878][agents.py:262][INFO][139898716231424] - /agents-out/ 签出成功
+[2022-02-05 16:52:54,300][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644051120 1644051060
+[2022-02-05 16:52:54,336][agents.py:209][INFO][139898716231424] - /agents-login/ 80001 签入成功
+[2022-02-05 16:55:19,079][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644051300 1644051240
+[2022-02-05 16:55:19,112][agents.py:262][INFO][139898716231424] - /agents-out/ 签出成功
+[2022-02-05 16:55:25,477][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644051300 1644051240
+[2022-02-05 16:55:25,506][agents.py:209][INFO][139898716231424] - /agents-login/ 80001 签入成功
+[2022-02-05 16:55:43,350][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644051300 1644051240
+[2022-02-05 16:55:43,374][agents.py:262][INFO][139898716231424] - /agents-out/ 签出成功
+[2022-02-05 16:56:19,737][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644051360 1644051300
+[2022-02-05 16:56:19,762][agents.py:209][INFO][139898716231424] - /agents-login/ 80001 签入成功
+[2022-02-05 16:57:10,035][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644051420 1644051360
+[2022-02-05 16:57:10,067][agents.py:262][INFO][139898716231424] - /agents-out/ 签出成功
+[2022-02-05 16:57:14,029][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644051420 1644051360
+[2022-02-05 16:57:14,063][agents.py:209][INFO][139898716231424] - /agents-login/ 80001 签入成功
+[2022-02-05 16:59:48,731][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644051540 1644051480
+[2022-02-05 16:59:48,766][agents.py:262][INFO][139898716231424] - /agents-out/ 签出成功
+[2022-02-05 17:01:08,756][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644051660 1644051600
+[2022-02-05 17:01:08,792][agents.py:209][INFO][139898716231424] - /agents-login/ 80001 签入成功
+[2022-02-05 17:01:13,870][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644051660 1644051600
+[2022-02-05 17:01:13,897][agents.py:262][INFO][139898716231424] - /agents-out/ 签出成功
+[2022-02-05 17:01:17,904][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644051660 1644051600
+[2022-02-05 17:01:17,929][agents.py:209][INFO][139898716231424] - /agents-login/ 80001 签入成功
+[2022-02-05 17:01:33,627][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644051660 1644051600
+[2022-02-05 17:01:33,653][agents.py:262][INFO][139898716231424] - /agents-out/ 签出成功
+[2022-02-05 17:01:45,924][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644051660 1644051600
+[2022-02-05 17:01:45,937][agents.py:213][INFO][139898716231424] - /agents-Bind/ 80001 签入失败，密码错误
+[2022-02-05 17:02:10,883][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644051720 1644051660
+[2022-02-05 17:02:10,910][agents.py:209][INFO][139898716231424] - /agents-login/ 80001 签入成功
+[2022-02-05 17:03:59,618][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644051780 1644051720
+[2022-02-05 17:03:59,644][agents.py:262][INFO][139898716231424] - /agents-out/ 签出成功
+[2022-02-05 17:05:57,775][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644051900 1644051840
+[2022-02-05 17:05:57,810][agents.py:209][INFO][139898716231424] - /agents-login/ 80001 签入成功
+[2022-02-05 17:06:02,548][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644051960 1644051900
+[2022-02-05 17:06:02,576][agents.py:262][INFO][139898716231424] - /agents-out/ 签出成功
+[2022-02-05 17:06:06,643][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644051960 1644051900
+[2022-02-05 17:06:06,668][agents.py:209][INFO][139898716231424] - /agents-login/ 80001 签入成功
+[2022-02-05 17:07:20,411][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644052020 1644051960
+[2022-02-05 17:07:20,436][agents.py:262][INFO][139898716231424] - /agents-out/ 签出成功
+[2022-02-05 17:07:23,755][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644052020 1644051960
+[2022-02-05 17:07:23,785][agents.py:209][INFO][139898716231424] - /agents-login/ 80001 签入成功
+[2022-02-05 17:07:32,483][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644052020 1644051960
+[2022-02-05 17:07:32,510][agents.py:262][INFO][139898716231424] - /agents-out/ 签出成功
+[2022-02-05 17:07:35,815][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644052020 1644051960
+[2022-02-05 17:07:35,842][agents.py:209][INFO][139898716231424] - /agents-login/ 80001 签入成功
+[2022-02-05 17:12:56,667][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644052320 1644052260
+[2022-02-05 17:12:56,730][queues.py:108][INFO][139898716231424] - /queues-list/ 查询成功
+[2022-02-05 17:12:56,937][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644052320 1644052260
+[2022-02-05 17:12:56,971][dids.py:93][INFO][139898716231424] - /dids-list/ 查询成功
+[2022-02-05 17:12:58,786][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644052320 1644052260
+[2022-02-05 17:12:58,841][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 17:12:58,877][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644052320 1644052260
+[2022-02-05 17:12:58,893][queues.py:108][INFO][139898716231424] - /queues-list/ 查询成功
+[2022-02-05 17:12:58,912][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644052320 1644052260
+[2022-02-05 17:12:58,923][agents.py:105][INFO][139898716231424] - /agents-list/ 查询成功
+[2022-02-05 17:12:59,088][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644052320 1644052260
+[2022-02-05 17:12:59,133][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 17:13:07,855][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644052380 1644052320
+[2022-02-05 17:13:07,868][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 17:13:07,891][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644052380 1644052320
+[2022-02-05 17:13:07,907][queues.py:108][INFO][139898716231424] - /queues-list/ 查询成功
+[2022-02-05 17:13:07,938][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644052380 1644052320
+[2022-02-05 17:13:07,949][agents.py:105][INFO][139898716231424] - /agents-list/ 查询成功
+[2022-02-05 17:13:08,138][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644052380 1644052320
+[2022-02-05 17:13:08,151][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 17:13:28,926][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644052380 1644052320
+[2022-02-05 17:13:28,942][queues.py:108][INFO][139898716231424] - /queues-list/ 查询成功
+[2022-02-05 17:13:29,177][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644052380 1644052320
+[2022-02-05 17:13:29,189][dids.py:93][INFO][139898716231424] - /dids-list/ 查询成功
+[2022-02-05 17:13:30,141][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644052380 1644052320
+[2022-02-05 17:13:30,158][queues.py:108][INFO][139898716231424] - /queues-list/ 查询成功
+[2022-02-05 17:13:30,183][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644052380 1644052320
+[2022-02-05 17:13:30,195][agents.py:105][INFO][139898716231424] - /agents-list/ 查询成功
+[2022-02-05 17:13:30,230][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644052380 1644052320
+[2022-02-05 17:13:30,242][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 17:13:30,481][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644052380 1644052320
+[2022-02-05 17:13:30,494][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 17:13:37,265][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644052380 1644052320
+[2022-02-05 17:13:37,288][groups.py:93][INFO][139898716231424] - /groups-list/ 查询成功
+[2022-02-05 17:13:42,058][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644052380 1644052320
+[2022-02-05 17:13:42,072][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 17:13:42,105][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644052380 1644052320
+[2022-02-05 17:13:42,121][queues.py:108][INFO][139898716231424] - /queues-list/ 查询成功
+[2022-02-05 17:13:42,146][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644052380 1644052320
+[2022-02-05 17:13:42,157][agents.py:105][INFO][139898716231424] - /agents-list/ 查询成功
+[2022-02-05 17:13:43,910][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644052380 1644052320
+[2022-02-05 17:13:43,924][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 17:13:52,039][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644052380 1644052320
+[2022-02-05 17:13:52,051][agents.py:105][INFO][139898716231424] - /agents-list/ 查询成功
+[2022-02-05 17:13:52,071][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644052380 1644052320
+[2022-02-05 17:13:52,083][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 17:13:52,105][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644052380 1644052320
+[2022-02-05 17:13:52,120][queues.py:108][INFO][139898716231424] - /queues-list/ 查询成功
+[2022-02-05 17:13:52,268][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644052380 1644052320
+[2022-02-05 17:13:52,281][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 17:16:51,208][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644052560 1644052500
+[2022-02-05 17:16:51,223][groups.py:93][INFO][139898716231424] - /groups-list/ 查询成功
+[2022-02-05 17:50:14,477][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644054600 1644054540
+[2022-02-05 17:50:14,494][groups.py:93][INFO][139898716231424] - /groups-list/ 查询成功
+[2022-02-05 17:51:01,923][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644054660 1644054600
+[2022-02-05 17:51:01,936][groups.py:93][INFO][139898716231424] - /groups-list/ 查询成功
+[2022-02-05 17:51:54,392][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644054660 1644054600
+[2022-02-05 17:51:54,406][groups.py:93][INFO][139898716231424] - /groups-list/ 查询成功
+[2022-02-05 17:53:36,178][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644054780 1644054720
+[2022-02-05 17:53:36,192][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 17:53:36,213][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644054780 1644054720
+[2022-02-05 17:53:36,229][queues.py:108][INFO][139898716231424] - /queues-list/ 查询成功
+[2022-02-05 17:53:36,248][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644054780 1644054720
+[2022-02-05 17:53:36,259][agents.py:105][INFO][139898716231424] - /agents-list/ 查询成功
+[2022-02-05 17:53:36,461][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644054780 1644054720
+[2022-02-05 17:53:36,473][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 17:53:40,941][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644054780 1644054720
+[2022-02-05 17:53:40,955][groups.py:93][INFO][139898716231424] - /groups-list/ 查询成功
+[2022-02-05 17:53:46,710][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644054780 1644054720
+[2022-02-05 17:53:46,723][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 17:53:46,766][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644054780 1644054720
+[2022-02-05 17:53:46,782][queues.py:108][INFO][139898716231424] - /queues-list/ 查询成功
+[2022-02-05 17:53:46,799][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644054780 1644054720
+[2022-02-05 17:53:46,810][agents.py:105][INFO][139898716231424] - /agents-list/ 查询成功
+[2022-02-05 17:53:47,030][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644054780 1644054720
+[2022-02-05 17:53:47,043][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 17:54:06,111][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644054840 1644054780
+[2022-02-05 17:54:06,130][queues.py:108][INFO][139898716231424] - /queues-list/ 查询成功
+[2022-02-05 17:54:06,148][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644054840 1644054780
+[2022-02-05 17:54:06,161][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 17:54:06,191][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644054840 1644054780
+[2022-02-05 17:54:06,203][agents.py:105][INFO][139898716231424] - /agents-list/ 查询成功
+[2022-02-05 17:54:06,397][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644054840 1644054780
+[2022-02-05 17:54:06,410][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 17:56:06,988][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644054960 1644054900
+[2022-02-05 17:56:07,002][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 17:56:07,036][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644054960 1644054900
+[2022-02-05 17:56:07,053][queues.py:108][INFO][139898716231424] - /queues-list/ 查询成功
+[2022-02-05 17:56:07,072][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644054960 1644054900
+[2022-02-05 17:56:07,084][agents.py:105][INFO][139898716231424] - /agents-list/ 查询成功
+[2022-02-05 17:56:07,282][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644054960 1644054900
+[2022-02-05 17:56:07,295][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 17:56:26,126][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644054960 1644054900
+[2022-02-05 17:56:26,139][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 17:56:26,170][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644054960 1644054900
+[2022-02-05 17:56:26,185][queues.py:108][INFO][139898716231424] - /queues-list/ 查询成功
+[2022-02-05 17:56:26,211][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644054960 1644054900
+[2022-02-05 17:56:26,223][agents.py:105][INFO][139898716231424] - /agents-list/ 查询成功
+[2022-02-05 17:56:26,419][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644054960 1644054900
+[2022-02-05 17:56:26,431][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 17:57:59,047][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055020 1644054960
+[2022-02-05 17:57:59,061][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 17:57:59,084][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055020 1644054960
+[2022-02-05 17:57:59,101][queues.py:108][INFO][139898716231424] - /queues-list/ 查询成功
+[2022-02-05 17:57:59,118][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055020 1644054960
+[2022-02-05 17:57:59,129][agents.py:105][INFO][139898716231424] - /agents-list/ 查询成功
+[2022-02-05 17:57:59,344][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055020 1644054960
+[2022-02-05 17:57:59,356][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 18:00:54,660][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055200 1644055140
+[2022-02-05 18:00:54,673][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 18:00:54,709][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055200 1644055140
+[2022-02-05 18:00:54,720][agents.py:105][INFO][139898716231424] - /agents-list/ 查询成功
+[2022-02-05 18:00:54,747][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055200 1644055140
+[2022-02-05 18:00:54,763][queues.py:108][INFO][139898716231424] - /queues-list/ 查询成功
+[2022-02-05 18:00:54,941][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055200 1644055140
+[2022-02-05 18:00:54,954][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 18:01:20,663][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055260 1644055200
+[2022-02-05 18:01:20,677][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 18:01:20,699][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055260 1644055200
+[2022-02-05 18:01:20,715][queues.py:108][INFO][139898716231424] - /queues-list/ 查询成功
+[2022-02-05 18:01:20,752][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055260 1644055200
+[2022-02-05 18:01:20,764][agents.py:105][INFO][139898716231424] - /agents-list/ 查询成功
+[2022-02-05 18:01:21,074][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055260 1644055200
+[2022-02-05 18:01:21,086][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 18:01:23,893][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055260 1644055200
+[2022-02-05 18:01:23,906][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 18:01:23,932][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055260 1644055200
+[2022-02-05 18:01:23,948][queues.py:108][INFO][139898716231424] - /queues-list/ 查询成功
+[2022-02-05 18:01:23,978][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055260 1644055200
+[2022-02-05 18:01:23,990][agents.py:105][INFO][139898716231424] - /agents-list/ 查询成功
+[2022-02-05 18:01:24,202][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055260 1644055200
+[2022-02-05 18:01:24,214][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 18:05:55,925][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055500 1644055440
+[2022-02-05 18:05:55,944][queues.py:108][INFO][139898716231424] - /queues-list/ 查询成功
+[2022-02-05 18:05:55,974][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055500 1644055440
+[2022-02-05 18:05:55,986][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 18:05:56,008][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055500 1644055440
+[2022-02-05 18:05:56,019][agents.py:105][INFO][139898716231424] - /agents-list/ 查询成功
+[2022-02-05 18:05:56,184][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055500 1644055440
+[2022-02-05 18:05:56,198][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 18:05:59,192][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055500 1644055440
+[2022-02-05 18:05:59,208][queues.py:108][INFO][139898716231424] - /queues-list/ 查询成功
+[2022-02-05 18:05:59,224][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055500 1644055440
+[2022-02-05 18:05:59,236][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 18:05:59,265][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055500 1644055440
+[2022-02-05 18:05:59,278][agents.py:105][INFO][139898716231424] - /agents-list/ 查询成功
+[2022-02-05 18:05:59,507][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055500 1644055440
+[2022-02-05 18:05:59,520][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 18:09:42,282][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055740 1644055680
+[2022-02-05 18:09:42,294][agents.py:105][INFO][139898716231424] - /agents-list/ 查询成功
+[2022-02-05 18:09:42,313][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055740 1644055680
+[2022-02-05 18:09:42,329][queues.py:108][INFO][139898716231424] - /queues-list/ 查询成功
+[2022-02-05 18:09:42,349][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055740 1644055680
+[2022-02-05 18:09:42,362][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 18:09:42,472][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055740 1644055680
+[2022-02-05 18:09:42,485][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 18:10:13,007][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055800 1644055740
+[2022-02-05 18:10:13,020][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 18:10:13,050][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055800 1644055740
+[2022-02-05 18:10:13,066][queues.py:108][INFO][139898716231424] - /queues-list/ 查询成功
+[2022-02-05 18:10:13,082][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055800 1644055740
+[2022-02-05 18:10:13,094][agents.py:105][INFO][139898716231424] - /agents-list/ 查询成功
+[2022-02-05 18:10:13,284][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055800 1644055740
+[2022-02-05 18:10:13,297][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 18:10:59,249][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055800 1644055740
+[2022-02-05 18:10:59,261][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 18:10:59,284][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055800 1644055740
+[2022-02-05 18:10:59,295][agents.py:105][INFO][139898716231424] - /agents-list/ 查询成功
+[2022-02-05 18:10:59,325][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055800 1644055740
+[2022-02-05 18:10:59,340][queues.py:108][INFO][139898716231424] - /queues-list/ 查询成功
+[2022-02-05 18:10:59,577][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055800 1644055740
+[2022-02-05 18:10:59,589][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 18:11:27,798][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055860 1644055800
+[2022-02-05 18:11:27,811][agents.py:105][INFO][139898716231424] - /agents-list/ 查询成功
+[2022-02-05 18:11:27,830][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055860 1644055800
+[2022-02-05 18:11:27,843][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 18:11:27,864][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055860 1644055800
+[2022-02-05 18:11:27,880][queues.py:108][INFO][139898716231424] - /queues-list/ 查询成功
+[2022-02-05 18:11:28,170][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644055860 1644055800
+[2022-02-05 18:11:28,182][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 18:14:48,030][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644056040 1644055980
+[2022-02-05 18:14:48,044][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 18:14:48,075][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644056040 1644055980
+[2022-02-05 18:14:48,087][agents.py:105][INFO][139898716231424] - /agents-list/ 查询成功
+[2022-02-05 18:14:48,117][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644056040 1644055980
+[2022-02-05 18:14:48,133][queues.py:108][INFO][139898716231424] - /queues-list/ 查询成功
+[2022-02-05 18:14:48,279][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644056040 1644055980
+[2022-02-05 18:14:48,292][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 18:15:30,392][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644056100 1644056040
+[2022-02-05 18:15:30,405][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 18:15:30,434][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644056100 1644056040
+[2022-02-05 18:15:30,450][queues.py:108][INFO][139898716231424] - /queues-list/ 查询成功
+[2022-02-05 18:15:30,468][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644056100 1644056040
+[2022-02-05 18:15:30,479][agents.py:105][INFO][139898716231424] - /agents-list/ 查询成功
+[2022-02-05 18:15:30,655][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644056100 1644056040
+[2022-02-05 18:15:30,668][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 18:15:47,452][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644056100 1644056040
+[2022-02-05 18:15:47,464][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 18:15:47,491][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644056100 1644056040
+[2022-02-05 18:15:47,507][queues.py:108][INFO][139898716231424] - /queues-list/ 查询成功
+[2022-02-05 18:15:47,525][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644056100 1644056040
+[2022-02-05 18:15:47,537][agents.py:105][INFO][139898716231424] - /agents-list/ 查询成功
+[2022-02-05 18:15:47,730][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644056100 1644056040
+[2022-02-05 18:15:47,742][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 18:16:31,867][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644056160 1644056100
+[2022-02-05 18:16:31,881][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 18:16:31,902][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644056160 1644056100
+[2022-02-05 18:16:31,918][queues.py:108][INFO][139898716231424] - /queues-list/ 查询成功
+[2022-02-05 18:16:31,935][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644056160 1644056100
+[2022-02-05 18:16:31,946][agents.py:105][INFO][139898716231424] - /agents-list/ 查询成功
+[2022-02-05 18:16:32,136][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644056160 1644056100
+[2022-02-05 18:16:32,149][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 18:18:06,407][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644056280 1644056220
+[2022-02-05 18:18:06,422][agents.py:105][INFO][139898716231424] - /agents-list/ 查询成功
+[2022-02-05 18:18:06,439][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644056280 1644056220
+[2022-02-05 18:18:06,455][queues.py:108][INFO][139898716231424] - /queues-list/ 查询成功
+[2022-02-05 18:18:06,472][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644056280 1644056220
+[2022-02-05 18:18:06,484][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 18:18:22,718][md5_token.py:25][INFO][139898716231424] - 鉴权时间戳是:1644056280 1644056220
+[2022-02-05 18:18:22,730][cdr.py:41][INFO][139898716231424] - /cdr-list/ 查询成功
+[2022-02-05 18:27:02,797][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644056820 1644056760
+[2022-02-05 18:27:02,828][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 18:27:02,849][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644056820 1644056760
+[2022-02-05 18:27:02,861][agents.py:105][INFO][139898317928192] - /agents-list/ 查询成功
+[2022-02-05 18:27:02,896][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644056820 1644056760
+[2022-02-05 18:27:02,912][queues.py:108][INFO][139898317928192] - /queues-list/ 查询成功
+[2022-02-05 18:27:03,228][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644056820 1644056760
+[2022-02-05 18:27:03,241][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 18:29:41,701][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644056940 1644056880
+[2022-02-05 18:29:41,714][agents.py:105][INFO][139898317928192] - /agents-list/ 查询成功
+[2022-02-05 18:29:41,732][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644056940 1644056880
+[2022-02-05 18:29:41,748][queues.py:108][INFO][139898317928192] - /queues-list/ 查询成功
+[2022-02-05 18:29:41,786][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644056940 1644056880
+[2022-02-05 18:29:41,798][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 18:29:41,963][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644056940 1644056880
+[2022-02-05 18:29:41,979][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 18:29:51,309][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644056940 1644056880
+[2022-02-05 18:29:51,324][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 18:29:51,353][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644056940 1644056880
+[2022-02-05 18:29:51,369][agents.py:105][INFO][139898317928192] - /agents-list/ 查询成功
+[2022-02-05 18:29:51,395][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644056940 1644056880
+[2022-02-05 18:29:51,411][queues.py:108][INFO][139898317928192] - /queues-list/ 查询成功
+[2022-02-05 18:29:51,662][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644056940 1644056880
+[2022-02-05 18:29:51,674][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 18:31:30,842][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644057060 1644057000
+[2022-02-05 18:31:30,856][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 18:31:30,902][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644057060 1644057000
+[2022-02-05 18:31:30,918][queues.py:108][INFO][139898317928192] - /queues-list/ 查询成功
+[2022-02-05 18:31:30,937][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644057060 1644057000
+[2022-02-05 18:31:30,949][agents.py:105][INFO][139898317928192] - /agents-list/ 查询成功
+[2022-02-05 18:31:31,168][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644057060 1644057000
+[2022-02-05 18:31:31,183][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 18:36:03,307][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644057360 1644057300
+[2022-02-05 18:36:03,322][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 18:36:03,357][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644057360 1644057300
+[2022-02-05 18:36:03,369][agents.py:105][INFO][139898317928192] - /agents-list/ 查询成功
+[2022-02-05 18:36:03,405][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644057360 1644057300
+[2022-02-05 18:36:03,421][queues.py:108][INFO][139898317928192] - /queues-list/ 查询成功
+[2022-02-05 18:36:03,613][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644057360 1644057300
+[2022-02-05 18:36:03,626][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 18:36:21,499][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644057360 1644057300
+[2022-02-05 18:36:21,513][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 18:36:21,539][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644057360 1644057300
+[2022-02-05 18:36:21,550][agents.py:105][INFO][139898317928192] - /agents-list/ 查询成功
+[2022-02-05 18:36:21,570][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644057360 1644057300
+[2022-02-05 18:36:21,588][queues.py:108][INFO][139898317928192] - /queues-list/ 查询成功
+[2022-02-05 18:36:21,862][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644057360 1644057300
+[2022-02-05 18:36:21,876][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 18:37:40,138][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644057420 1644057360
+[2022-02-05 18:37:40,151][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 18:37:40,182][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644057420 1644057360
+[2022-02-05 18:37:40,199][queues.py:108][INFO][139898317928192] - /queues-list/ 查询成功
+[2022-02-05 18:37:40,217][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644057420 1644057360
+[2022-02-05 18:37:40,228][agents.py:105][INFO][139898317928192] - /agents-list/ 查询成功
+[2022-02-05 18:37:40,412][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644057420 1644057360
+[2022-02-05 18:37:40,426][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 18:38:33,970][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644057480 1644057420
+[2022-02-05 18:38:33,985][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 18:39:42,994][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644057540 1644057480
+[2022-02-05 18:40:22,650][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 18:40:44,372][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644057600 1644057540
+[2022-02-05 18:40:47,031][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 18:41:38,267][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644057660 1644057600
+[2022-02-05 18:41:38,282][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 18:41:38,312][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644057660 1644057600
+[2022-02-05 18:41:38,326][agents.py:105][INFO][139898317928192] - /agents-list/ 查询成功
+[2022-02-05 18:41:38,342][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644057660 1644057600
+[2022-02-05 18:41:38,359][queues.py:108][INFO][139898317928192] - /queues-list/ 查询成功
+[2022-02-05 18:41:38,525][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644057660 1644057600
+[2022-02-05 18:41:38,539][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 18:42:06,692][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644057720 1644057660
+[2022-02-05 18:42:06,709][queues.py:108][INFO][139898317928192] - /queues-list/ 查询成功
+[2022-02-05 18:42:06,735][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644057720 1644057660
+[2022-02-05 18:42:06,746][agents.py:105][INFO][139898317928192] - /agents-list/ 查询成功
+[2022-02-05 18:42:06,763][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644057720 1644057660
+[2022-02-05 18:42:06,775][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 18:42:06,895][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644057720 1644057660
+[2022-02-05 18:42:06,908][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 18:42:37,386][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644057720 1644057660
+[2022-02-05 18:42:37,400][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 18:42:37,431][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644057720 1644057660
+[2022-02-05 18:42:37,444][agents.py:105][INFO][139898317928192] - /agents-list/ 查询成功
+[2022-02-05 18:42:37,463][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644057720 1644057660
+[2022-02-05 18:42:37,489][queues.py:108][INFO][139898317928192] - /queues-list/ 查询成功
+[2022-02-05 18:42:37,685][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644057720 1644057660
+[2022-02-05 18:42:37,698][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 18:42:47,350][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644057720 1644057660
+[2022-02-05 18:43:19,090][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 18:47:53,998][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058020 1644057960
+[2022-02-05 18:47:54,013][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 18:47:54,054][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058020 1644057960
+[2022-02-05 18:47:54,067][agents.py:105][INFO][139898317928192] - /agents-list/ 查询成功
+[2022-02-05 18:47:54,082][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058020 1644057960
+[2022-02-05 18:47:54,099][queues.py:108][INFO][139898317928192] - /queues-list/ 查询成功
+[2022-02-05 18:47:54,275][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058020 1644057960
+[2022-02-05 18:47:54,288][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 18:47:57,657][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058020 1644057960
+[2022-02-05 18:47:57,669][agents.py:105][INFO][139898317928192] - /agents-list/ 查询成功
+[2022-02-05 18:47:57,686][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058020 1644057960
+[2022-02-05 18:47:57,702][queues.py:108][INFO][139898317928192] - /queues-list/ 查询成功
+[2022-02-05 18:47:57,718][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058020 1644057960
+[2022-02-05 18:47:57,730][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 18:47:57,799][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058020 1644057960
+[2022-02-05 18:47:57,811][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 18:49:26,553][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058140 1644058080
+[2022-02-05 18:49:26,567][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 18:49:26,589][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058140 1644058080
+[2022-02-05 18:49:26,606][queues.py:108][INFO][139898317928192] - /queues-list/ 查询成功
+[2022-02-05 18:49:26,630][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058140 1644058080
+[2022-02-05 18:49:26,642][agents.py:105][INFO][139898317928192] - /agents-list/ 查询成功
+[2022-02-05 18:49:26,795][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058140 1644058080
+[2022-02-05 18:49:26,808][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 18:49:37,715][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058140 1644058080
+[2022-02-05 18:49:37,728][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 18:49:37,762][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058140 1644058080
+[2022-02-05 18:49:37,774][agents.py:105][INFO][139898317928192] - /agents-list/ 查询成功
+[2022-02-05 18:49:37,799][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058140 1644058080
+[2022-02-05 18:49:37,815][queues.py:108][INFO][139898317928192] - /queues-list/ 查询成功
+[2022-02-05 18:49:37,962][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058140 1644058080
+[2022-02-05 18:49:37,976][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 18:53:43,087][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058380 1644058320
+[2022-02-05 18:53:43,106][cdr.py:37][DEBUG][139898317928192] - /cdr-list/ 数据库操作失败：(psycopg2.errors.UndefinedFunction) operator does not exist: character varying >= integer
+LINE 3: WHERE cdr.aleg_start_stamp >= 1644058453 ORDER BY cdr.id DES...
+                                   ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+[SQL: SELECT cdr.id AS cdr_id, cdr.csv_address AS cdr_csv_address, cdr.call_type AS cdr_call_type, cdr.crm_uuid AS cdr_crm_uuid, cdr.product_code AS cdr_product_code, cdr.agent AS cdr_agent, cdr.caller_id_name AS cdr_caller_id_name, cdr.caller_id_number AS cdr_caller_id_number, cdr.destination_number AS cdr_destination_number, cdr.old_destination_number AS cdr_old_destination_number, cdr.dialplan AS cdr_dialplan, cdr.context AS cdr_context, cdr.aleg_start_stamp AS cdr_aleg_start_stamp, cdr.aleg_answer_stamp AS cdr_aleg_answer_stamp, cdr.aleg_end_stamp AS cdr_aleg_end_stamp, cdr.bleg_start_stamp AS cdr_bleg_start_stamp, cdr.bleg_answer_stamp AS cdr_bleg_answer_stamp, cdr.bleg_end_stamp AS cdr_bleg_end_stamp, cdr.aleg_duration AS cdr_aleg_duration, cdr.aleg_billsec AS cdr_aleg_billsec, cdr.bleg_duration AS cdr_bleg_duration, cdr.bleg_billsec AS cdr_bleg_billsec, cdr.hangup_cause AS cdr_hangup_cause, cdr.aleg_uuid AS cdr_aleg_uuid, cdr.bleg_uuid AS cdr_bleg_uuid, cdr.accountcode AS cdr_accountcode, cdr.read_codec AS cdr_read_codec, cdr.write_codec AS cdr_write_codec, cdr.a_answer_bool AS cdr_a_answer_bool, cdr.b_answer_bool AS cdr_b_answer_bool, cdr.hangup_leg AS cdr_hangup_leg, cdr.record_url AS cdr_record_url, cdr.record_path AS cdr_record_path 
+FROM cdr 
+WHERE cdr.aleg_start_stamp >= %(aleg_start_stamp_1)s ORDER BY cdr.id DESC 
+ LIMIT %(param_1)s OFFSET %(param_2)s]
+[parameters: {'aleg_start_stamp_1': 1644058453, 'param_1': 10, 'param_2': 0}]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+[2022-02-05 18:53:43,215][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058380 1644058320
+[2022-02-05 18:53:43,227][agents.py:105][INFO][139898317928192] - /agents-list/ 查询成功
+[2022-02-05 18:53:43,244][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058380 1644058320
+[2022-02-05 18:53:43,260][queues.py:108][INFO][139898317928192] - /queues-list/ 查询成功
+[2022-02-05 18:53:44,866][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058380 1644058320
+[2022-02-05 18:53:44,872][cdr.py:37][DEBUG][139898317928192] - /cdr-list/ 数据库操作失败：(psycopg2.errors.UndefinedFunction) operator does not exist: character varying >= integer
+LINE 3: WHERE cdr.aleg_start_stamp >= 1644058453 ORDER BY cdr.id DES...
+                                   ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+[SQL: SELECT cdr.id AS cdr_id, cdr.csv_address AS cdr_csv_address, cdr.call_type AS cdr_call_type, cdr.crm_uuid AS cdr_crm_uuid, cdr.product_code AS cdr_product_code, cdr.agent AS cdr_agent, cdr.caller_id_name AS cdr_caller_id_name, cdr.caller_id_number AS cdr_caller_id_number, cdr.destination_number AS cdr_destination_number, cdr.old_destination_number AS cdr_old_destination_number, cdr.dialplan AS cdr_dialplan, cdr.context AS cdr_context, cdr.aleg_start_stamp AS cdr_aleg_start_stamp, cdr.aleg_answer_stamp AS cdr_aleg_answer_stamp, cdr.aleg_end_stamp AS cdr_aleg_end_stamp, cdr.bleg_start_stamp AS cdr_bleg_start_stamp, cdr.bleg_answer_stamp AS cdr_bleg_answer_stamp, cdr.bleg_end_stamp AS cdr_bleg_end_stamp, cdr.aleg_duration AS cdr_aleg_duration, cdr.aleg_billsec AS cdr_aleg_billsec, cdr.bleg_duration AS cdr_bleg_duration, cdr.bleg_billsec AS cdr_bleg_billsec, cdr.hangup_cause AS cdr_hangup_cause, cdr.aleg_uuid AS cdr_aleg_uuid, cdr.bleg_uuid AS cdr_bleg_uuid, cdr.accountcode AS cdr_accountcode, cdr.read_codec AS cdr_read_codec, cdr.write_codec AS cdr_write_codec, cdr.a_answer_bool AS cdr_a_answer_bool, cdr.b_answer_bool AS cdr_b_answer_bool, cdr.hangup_leg AS cdr_hangup_leg, cdr.record_url AS cdr_record_url, cdr.record_path AS cdr_record_path 
+FROM cdr 
+WHERE cdr.aleg_start_stamp >= %(aleg_start_stamp_1)s ORDER BY cdr.id DESC 
+ LIMIT %(param_1)s OFFSET %(param_2)s]
+[parameters: {'aleg_start_stamp_1': 1644058453, 'param_1': 10, 'param_2': 0}]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+[2022-02-05 18:53:51,048][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058380 1644058320
+[2022-02-05 18:53:51,055][cdr.py:37][DEBUG][139898317928192] - /cdr-list/ 数据库操作失败：(psycopg2.errors.UndefinedFunction) operator does not exist: character varying >= integer
+LINE 3: WHERE cdr.aleg_start_stamp >= 1644058461 ORDER BY cdr.id DES...
+                                   ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+[SQL: SELECT cdr.id AS cdr_id, cdr.csv_address AS cdr_csv_address, cdr.call_type AS cdr_call_type, cdr.crm_uuid AS cdr_crm_uuid, cdr.product_code AS cdr_product_code, cdr.agent AS cdr_agent, cdr.caller_id_name AS cdr_caller_id_name, cdr.caller_id_number AS cdr_caller_id_number, cdr.destination_number AS cdr_destination_number, cdr.old_destination_number AS cdr_old_destination_number, cdr.dialplan AS cdr_dialplan, cdr.context AS cdr_context, cdr.aleg_start_stamp AS cdr_aleg_start_stamp, cdr.aleg_answer_stamp AS cdr_aleg_answer_stamp, cdr.aleg_end_stamp AS cdr_aleg_end_stamp, cdr.bleg_start_stamp AS cdr_bleg_start_stamp, cdr.bleg_answer_stamp AS cdr_bleg_answer_stamp, cdr.bleg_end_stamp AS cdr_bleg_end_stamp, cdr.aleg_duration AS cdr_aleg_duration, cdr.aleg_billsec AS cdr_aleg_billsec, cdr.bleg_duration AS cdr_bleg_duration, cdr.bleg_billsec AS cdr_bleg_billsec, cdr.hangup_cause AS cdr_hangup_cause, cdr.aleg_uuid AS cdr_aleg_uuid, cdr.bleg_uuid AS cdr_bleg_uuid, cdr.accountcode AS cdr_accountcode, cdr.read_codec AS cdr_read_codec, cdr.write_codec AS cdr_write_codec, cdr.a_answer_bool AS cdr_a_answer_bool, cdr.b_answer_bool AS cdr_b_answer_bool, cdr.hangup_leg AS cdr_hangup_leg, cdr.record_url AS cdr_record_url, cdr.record_path AS cdr_record_path 
+FROM cdr 
+WHERE cdr.aleg_start_stamp >= %(aleg_start_stamp_1)s ORDER BY cdr.id DESC 
+ LIMIT %(param_1)s OFFSET %(param_2)s]
+[parameters: {'aleg_start_stamp_1': 1644058461, 'param_1': 10, 'param_2': 0}]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+[2022-02-05 18:53:51,088][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058380 1644058320
+[2022-02-05 18:53:51,099][agents.py:105][INFO][139898317928192] - /agents-list/ 查询成功
+[2022-02-05 18:53:51,116][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058380 1644058320
+[2022-02-05 18:53:51,133][queues.py:108][INFO][139898317928192] - /queues-list/ 查询成功
+[2022-02-05 18:53:52,590][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058380 1644058320
+[2022-02-05 18:53:52,596][cdr.py:37][DEBUG][139898317928192] - /cdr-list/ 数据库操作失败：(psycopg2.errors.UndefinedFunction) operator does not exist: character varying >= integer
+LINE 3: WHERE cdr.aleg_start_stamp >= 1644058461 ORDER BY cdr.id DES...
+                                   ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+[SQL: SELECT cdr.id AS cdr_id, cdr.csv_address AS cdr_csv_address, cdr.call_type AS cdr_call_type, cdr.crm_uuid AS cdr_crm_uuid, cdr.product_code AS cdr_product_code, cdr.agent AS cdr_agent, cdr.caller_id_name AS cdr_caller_id_name, cdr.caller_id_number AS cdr_caller_id_number, cdr.destination_number AS cdr_destination_number, cdr.old_destination_number AS cdr_old_destination_number, cdr.dialplan AS cdr_dialplan, cdr.context AS cdr_context, cdr.aleg_start_stamp AS cdr_aleg_start_stamp, cdr.aleg_answer_stamp AS cdr_aleg_answer_stamp, cdr.aleg_end_stamp AS cdr_aleg_end_stamp, cdr.bleg_start_stamp AS cdr_bleg_start_stamp, cdr.bleg_answer_stamp AS cdr_bleg_answer_stamp, cdr.bleg_end_stamp AS cdr_bleg_end_stamp, cdr.aleg_duration AS cdr_aleg_duration, cdr.aleg_billsec AS cdr_aleg_billsec, cdr.bleg_duration AS cdr_bleg_duration, cdr.bleg_billsec AS cdr_bleg_billsec, cdr.hangup_cause AS cdr_hangup_cause, cdr.aleg_uuid AS cdr_aleg_uuid, cdr.bleg_uuid AS cdr_bleg_uuid, cdr.accountcode AS cdr_accountcode, cdr.read_codec AS cdr_read_codec, cdr.write_codec AS cdr_write_codec, cdr.a_answer_bool AS cdr_a_answer_bool, cdr.b_answer_bool AS cdr_b_answer_bool, cdr.hangup_leg AS cdr_hangup_leg, cdr.record_url AS cdr_record_url, cdr.record_path AS cdr_record_path 
+FROM cdr 
+WHERE cdr.aleg_start_stamp >= %(aleg_start_stamp_1)s ORDER BY cdr.id DESC 
+ LIMIT %(param_1)s OFFSET %(param_2)s]
+[parameters: {'aleg_start_stamp_1': 1644058461, 'param_1': 10, 'param_2': 0}]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+[2022-02-05 18:58:30,295][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058680 1644058620
+[2022-02-05 18:58:30,313][queues.py:108][INFO][139898317928192] - /queues-list/ 查询成功
+[2022-02-05 18:58:30,333][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058680 1644058620
+[2022-02-05 18:58:30,344][agents.py:105][INFO][139898317928192] - /agents-list/ 查询成功
+[2022-02-05 18:58:30,383][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058680 1644058620
+[2022-02-05 18:58:30,395][cdr.py:37][DEBUG][139898317928192] - /cdr-list/ 数据库操作失败：(psycopg2.errors.UndefinedFunction) operator does not exist: character varying >= integer
+LINE 3: WHERE cdr.aleg_start_stamp >= 1643990400 AND cdr.aleg_start_...
+                                   ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+[SQL: SELECT cdr.id AS cdr_id, cdr.csv_address AS cdr_csv_address, cdr.call_type AS cdr_call_type, cdr.crm_uuid AS cdr_crm_uuid, cdr.product_code AS cdr_product_code, cdr.agent AS cdr_agent, cdr.caller_id_name AS cdr_caller_id_name, cdr.caller_id_number AS cdr_caller_id_number, cdr.destination_number AS cdr_destination_number, cdr.old_destination_number AS cdr_old_destination_number, cdr.dialplan AS cdr_dialplan, cdr.context AS cdr_context, cdr.aleg_start_stamp AS cdr_aleg_start_stamp, cdr.aleg_answer_stamp AS cdr_aleg_answer_stamp, cdr.aleg_end_stamp AS cdr_aleg_end_stamp, cdr.bleg_start_stamp AS cdr_bleg_start_stamp, cdr.bleg_answer_stamp AS cdr_bleg_answer_stamp, cdr.bleg_end_stamp AS cdr_bleg_end_stamp, cdr.aleg_duration AS cdr_aleg_duration, cdr.aleg_billsec AS cdr_aleg_billsec, cdr.bleg_duration AS cdr_bleg_duration, cdr.bleg_billsec AS cdr_bleg_billsec, cdr.hangup_cause AS cdr_hangup_cause, cdr.aleg_uuid AS cdr_aleg_uuid, cdr.bleg_uuid AS cdr_bleg_uuid, cdr.accountcode AS cdr_accountcode, cdr.read_codec AS cdr_read_codec, cdr.write_codec AS cdr_write_codec, cdr.a_answer_bool AS cdr_a_answer_bool, cdr.b_answer_bool AS cdr_b_answer_bool, cdr.hangup_leg AS cdr_hangup_leg, cdr.record_url AS cdr_record_url, cdr.record_path AS cdr_record_path 
+FROM cdr 
+WHERE cdr.aleg_start_stamp >= %(aleg_start_stamp_1)s AND cdr.aleg_start_stamp <= %(aleg_start_stamp_2)s ORDER BY cdr.id DESC 
+ LIMIT %(param_1)s OFFSET %(param_2)s]
+[parameters: {'aleg_start_stamp_1': 1643990400, 'aleg_start_stamp_2': 1644058740, 'param_1': 10, 'param_2': 0}]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+[2022-02-05 18:58:32,491][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058680 1644058620
+[2022-02-05 18:58:32,498][cdr.py:37][DEBUG][139898317928192] - /cdr-list/ 数据库操作失败：(psycopg2.errors.UndefinedFunction) operator does not exist: character varying >= integer
+LINE 3: WHERE cdr.aleg_start_stamp >= 1643990400 AND cdr.aleg_start_...
+                                   ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+[SQL: SELECT cdr.id AS cdr_id, cdr.csv_address AS cdr_csv_address, cdr.call_type AS cdr_call_type, cdr.crm_uuid AS cdr_crm_uuid, cdr.product_code AS cdr_product_code, cdr.agent AS cdr_agent, cdr.caller_id_name AS cdr_caller_id_name, cdr.caller_id_number AS cdr_caller_id_number, cdr.destination_number AS cdr_destination_number, cdr.old_destination_number AS cdr_old_destination_number, cdr.dialplan AS cdr_dialplan, cdr.context AS cdr_context, cdr.aleg_start_stamp AS cdr_aleg_start_stamp, cdr.aleg_answer_stamp AS cdr_aleg_answer_stamp, cdr.aleg_end_stamp AS cdr_aleg_end_stamp, cdr.bleg_start_stamp AS cdr_bleg_start_stamp, cdr.bleg_answer_stamp AS cdr_bleg_answer_stamp, cdr.bleg_end_stamp AS cdr_bleg_end_stamp, cdr.aleg_duration AS cdr_aleg_duration, cdr.aleg_billsec AS cdr_aleg_billsec, cdr.bleg_duration AS cdr_bleg_duration, cdr.bleg_billsec AS cdr_bleg_billsec, cdr.hangup_cause AS cdr_hangup_cause, cdr.aleg_uuid AS cdr_aleg_uuid, cdr.bleg_uuid AS cdr_bleg_uuid, cdr.accountcode AS cdr_accountcode, cdr.read_codec AS cdr_read_codec, cdr.write_codec AS cdr_write_codec, cdr.a_answer_bool AS cdr_a_answer_bool, cdr.b_answer_bool AS cdr_b_answer_bool, cdr.hangup_leg AS cdr_hangup_leg, cdr.record_url AS cdr_record_url, cdr.record_path AS cdr_record_path 
+FROM cdr 
+WHERE cdr.aleg_start_stamp >= %(aleg_start_stamp_1)s AND cdr.aleg_start_stamp <= %(aleg_start_stamp_2)s ORDER BY cdr.id DESC 
+ LIMIT %(param_1)s OFFSET %(param_2)s]
+[parameters: {'aleg_start_stamp_1': 1643990400, 'aleg_start_stamp_2': 1644058740, 'param_1': 10, 'param_2': 0}]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+[2022-02-05 18:58:51,123][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058680 1644058620
+[2022-02-05 18:58:51,136][agents.py:105][INFO][139898317928192] - /agents-list/ 查询成功
+[2022-02-05 18:58:51,165][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058680 1644058620
+[2022-02-05 18:58:51,183][queues.py:108][INFO][139898317928192] - /queues-list/ 查询成功
+[2022-02-05 18:58:51,212][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058680 1644058620
+[2022-02-05 18:58:51,220][cdr.py:37][DEBUG][139898317928192] - /cdr-list/ 数据库操作失败：(psycopg2.errors.UndefinedFunction) operator does not exist: character varying >= integer
+LINE 3: WHERE cdr.aleg_start_stamp >= 1643990400 AND cdr.aleg_start_...
+                                   ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+[SQL: SELECT cdr.id AS cdr_id, cdr.csv_address AS cdr_csv_address, cdr.call_type AS cdr_call_type, cdr.crm_uuid AS cdr_crm_uuid, cdr.product_code AS cdr_product_code, cdr.agent AS cdr_agent, cdr.caller_id_name AS cdr_caller_id_name, cdr.caller_id_number AS cdr_caller_id_number, cdr.destination_number AS cdr_destination_number, cdr.old_destination_number AS cdr_old_destination_number, cdr.dialplan AS cdr_dialplan, cdr.context AS cdr_context, cdr.aleg_start_stamp AS cdr_aleg_start_stamp, cdr.aleg_answer_stamp AS cdr_aleg_answer_stamp, cdr.aleg_end_stamp AS cdr_aleg_end_stamp, cdr.bleg_start_stamp AS cdr_bleg_start_stamp, cdr.bleg_answer_stamp AS cdr_bleg_answer_stamp, cdr.bleg_end_stamp AS cdr_bleg_end_stamp, cdr.aleg_duration AS cdr_aleg_duration, cdr.aleg_billsec AS cdr_aleg_billsec, cdr.bleg_duration AS cdr_bleg_duration, cdr.bleg_billsec AS cdr_bleg_billsec, cdr.hangup_cause AS cdr_hangup_cause, cdr.aleg_uuid AS cdr_aleg_uuid, cdr.bleg_uuid AS cdr_bleg_uuid, cdr.accountcode AS cdr_accountcode, cdr.read_codec AS cdr_read_codec, cdr.write_codec AS cdr_write_codec, cdr.a_answer_bool AS cdr_a_answer_bool, cdr.b_answer_bool AS cdr_b_answer_bool, cdr.hangup_leg AS cdr_hangup_leg, cdr.record_url AS cdr_record_url, cdr.record_path AS cdr_record_path 
+FROM cdr 
+WHERE cdr.aleg_start_stamp >= %(aleg_start_stamp_1)s AND cdr.aleg_start_stamp <= %(aleg_start_stamp_2)s ORDER BY cdr.id DESC 
+ LIMIT %(param_1)s OFFSET %(param_2)s]
+[parameters: {'aleg_start_stamp_1': 1643990400, 'aleg_start_stamp_2': 1644076799, 'param_1': 10, 'param_2': 0}]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+[2022-02-05 18:58:51,360][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058680 1644058620
+[2022-02-05 18:58:51,367][cdr.py:37][DEBUG][139898317928192] - /cdr-list/ 数据库操作失败：(psycopg2.errors.UndefinedFunction) operator does not exist: character varying >= integer
+LINE 3: WHERE cdr.aleg_start_stamp >= 1643990400 AND cdr.aleg_start_...
+                                   ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+[SQL: SELECT cdr.id AS cdr_id, cdr.csv_address AS cdr_csv_address, cdr.call_type AS cdr_call_type, cdr.crm_uuid AS cdr_crm_uuid, cdr.product_code AS cdr_product_code, cdr.agent AS cdr_agent, cdr.caller_id_name AS cdr_caller_id_name, cdr.caller_id_number AS cdr_caller_id_number, cdr.destination_number AS cdr_destination_number, cdr.old_destination_number AS cdr_old_destination_number, cdr.dialplan AS cdr_dialplan, cdr.context AS cdr_context, cdr.aleg_start_stamp AS cdr_aleg_start_stamp, cdr.aleg_answer_stamp AS cdr_aleg_answer_stamp, cdr.aleg_end_stamp AS cdr_aleg_end_stamp, cdr.bleg_start_stamp AS cdr_bleg_start_stamp, cdr.bleg_answer_stamp AS cdr_bleg_answer_stamp, cdr.bleg_end_stamp AS cdr_bleg_end_stamp, cdr.aleg_duration AS cdr_aleg_duration, cdr.aleg_billsec AS cdr_aleg_billsec, cdr.bleg_duration AS cdr_bleg_duration, cdr.bleg_billsec AS cdr_bleg_billsec, cdr.hangup_cause AS cdr_hangup_cause, cdr.aleg_uuid AS cdr_aleg_uuid, cdr.bleg_uuid AS cdr_bleg_uuid, cdr.accountcode AS cdr_accountcode, cdr.read_codec AS cdr_read_codec, cdr.write_codec AS cdr_write_codec, cdr.a_answer_bool AS cdr_a_answer_bool, cdr.b_answer_bool AS cdr_b_answer_bool, cdr.hangup_leg AS cdr_hangup_leg, cdr.record_url AS cdr_record_url, cdr.record_path AS cdr_record_path 
+FROM cdr 
+WHERE cdr.aleg_start_stamp >= %(aleg_start_stamp_1)s AND cdr.aleg_start_stamp <= %(aleg_start_stamp_2)s ORDER BY cdr.id DESC 
+ LIMIT %(param_1)s OFFSET %(param_2)s]
+[parameters: {'aleg_start_stamp_1': 1643990400, 'aleg_start_stamp_2': 1644076799, 'param_1': 10, 'param_2': 0}]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+[2022-02-05 18:59:56,493][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058740 1644058680
+[2022-02-05 18:59:56,511][queues.py:108][INFO][139898317928192] - /queues-list/ 查询成功
+[2022-02-05 18:59:56,552][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058740 1644058680
+[2022-02-05 18:59:56,597][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 18:59:56,619][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058740 1644058680
+[2022-02-05 18:59:56,631][agents.py:105][INFO][139898317928192] - /agents-list/ 查询成功
+[2022-02-05 18:59:56,723][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058740 1644058680
+[2022-02-05 18:59:56,742][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 19:00:03,626][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058800 1644058740
+[2022-02-05 19:00:03,638][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 19:00:03,660][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058800 1644058740
+[2022-02-05 19:00:03,676][queues.py:108][INFO][139898317928192] - /queues-list/ 查询成功
+[2022-02-05 19:00:03,731][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058800 1644058740
+[2022-02-05 19:00:03,743][agents.py:105][INFO][139898317928192] - /agents-list/ 查询成功
+[2022-02-05 19:00:03,883][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058800 1644058740
+[2022-02-05 19:00:03,896][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功
+[2022-02-05 19:00:32,024][md5_token.py:25][INFO][139898317928192] - 鉴权时间戳是:1644058800 1644058740
+[2022-02-05 19:00:32,039][cdr.py:41][INFO][139898317928192] - /cdr-list/ 查询成功

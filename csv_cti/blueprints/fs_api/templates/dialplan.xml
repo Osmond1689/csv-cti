@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="freeswitch/xml">
+  <section name="dialplan" description="default">
+    <context name="default">
+        <!-- 点击拨号 -->
+        <extension name="click_on_call" continue="true">
+            <condition field="${call_type}" expression="click_on_call"/>
+            <condition field="${count}" expression="1">
+                <!-- set要在export前面 -->
+                <!--<action application="set" data="hangup_after_bridge=true"/>-->
+                <action application="set" data="count=2" inline="true"/>
+                <action application="set" data="a_answer_bool=yes"/>
+                <action application="set" data="export_vars=call_type,crm_uuid,product_code"/>
+                <action application="export" data="_nolocal_leg_type=b"/>
+                <!-- <action application="export" data="api_on_answer=uuid_setvar ${uuid} b_answer_bool yes"/> -->
+                <action application="export" data="execute_on_answer=execute_extension answer_op${uuid}"/>
+            </condition>
+        </extension>
+
+        <!-- 绑定DTMF -->
+        <extension name="binddtmf_call" continue="true">
+            <condition field="${call_type}" expression="^binddtmf_call$"/>
+            <condition field="${count}" expression="1">
+            <!--<condition field="destination_number" expression="^1006$">-->
+                    <action application="set" data="leg_type=a"/>
+                    <action application="set" data="call_type=click-on-call"/>
+                    <action application="set" data="a_answer_bool=yes"/>
+                    <action application="set" data="export_vars=customer_id,caller_number,lan"/>
+                    <!-- <action application="export" data="api_on_answer=uuid_setvar ${uuid} answer_bool yes"/> -->
+                <!--<action application="log" data="ERR call_func=binddtmf customer_id=${} caller_number=${caller_number} customer_number=${customer_number} lan=${lan}"/> -->
+                    <!-- <action application="bind_meta_app" data="1 a b execute_extension::dtmf_check XML features"/>-->
+                    <action application="set" data="bind_meta_key=1"/>
+                    <action application="bind_meta_app" data="0 a o lua::dtmf_check.lua"/>
+                    <!--<action application="bind_digit_action" data="test,1#,exec:lua,dtmf_check.lua,aleg,bleg"/>-->
+            </condition>
+        </extension>
+
+        <!-- 手动拨打 -->
+        <extension name="manual_call" continue="true">
+            <condition field="${call_type}" expression="manual_call"/>
+            <condition field="${count}" expression="1">
+                
+                <!-- set要在export前面 -->
+                <!--<action application="set" data="hangup_after_bridge=true"/>-->
+                <action application="set"    data="leg_type=a"/>
+                <action application="set" data="count=2" inline="true"/>
+                <action application="set" data="a_answer_bool=yes"/>
+                <action application="lua" data="agent_manual.lua"/>
+                <action application="set" data="export_vars=call_type,callgroup,agent"/>
+                <action application="export" data="_nolocal_leg_type=b"/>
+                <!-- <action application="export" data="api_on_answer=uuid_setvar ${uuid} b_answer_bool yes"/> -->
+                <action application="export" data="execute_on_answer=execute_extension answer_op${uuid}"/>
+            </condition>
+        </extension> 
+
+        <!-- 短码拨号 -->
+        <extension name="ShortCode">
+            <condition field="destination_number" expression="^(\d{6})$">
+                    <action application="set" data="initial_Callee_ID_Number=${destination_number}"/>
+                    <action application="set" data="short_code=$1"/>
+                    <action application="set" data="origination_privacy=hide_name"/>
+                    <action application="ring_ready"/>
+                    <action application="playback" data="tone_stream://%(1000,4000,450);loops=1"/>
+                    <action application="set" data="origination_caller_id_number=abcd"/>
+                    <action application="export" data="ignore_display_updates=true"/>
+                    <action application="export" data="cid-type=none"/>
+                    <action application="lua" data="ShortCode.lua"/>
+            </condition>
+        </extension>
+
+    <!-- 分机互打 -->
+        <extension name="fen_ji_hu_bo">
+            <condition field="destination_number" expression="^(\d{4,5})$">
+                <!-- set要在export前面 -->
+                
+                <action application="set"    data="encrypt_destination_number=${destination_number}"/>
+                <!-- <action application="set" data="bridge_pre_execute_bleg_app=info"/> -->
+                <action application="bridge" data="user/$1@$${domain}"/>
+                <!-- <action application="info"/> -->
+                <action application="set"    data="hangup_leg=b"/>
+            </condition>
+        </extension>
+
+    <!-- 外部呼叫送到vos -->
+        <extension name="outbound_to_vos">
+            <condition field="destination_number" expression="^(900\d{8,15})$">
+                <action application="lua" data="number_encrypt.lua ${destination_number}"/>
+                <action application="bridge" data="sofia/gateway/c68_vos/$1"/>
+                <action application="set"    data="hangup_leg=b"/>
+            </condition>
+        </extension>
+
+        <extension name="answer_op">
+            <condition field="destination_number" expression="^answer_op(.*)">
+                <action application="set" data="record_path=/${strftime(%Y%m%d)}/${strftime(%Y%m%d%H%M%S)}_${caller_id_number}.wav"/>
+                <action application="set" data="record_url=$${nginx_url}${record_path}"/>
+                <action application="set" data="api_1=${uuid_setvar $1 b_answer_bool yes}"/>
+                <action application="set" data="api_2=${uuid_setvar $1 record_path ${record_path}}"/>
+                <action application="set" data="api_3=${uuid_setvar $1 record_url ${record_url}"/>
+                <action application="record_session" data="$${recordings_dir}${record_path}"/>
+            </condition>
+        </extension>
+  </context>
+  </section>
+</document>

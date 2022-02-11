@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="freeswitch/xml">
+<section name="dialplan" description="public">
+    <context name="public">
+        {% for did_queue in did_queues %}
+        <extension name="hu_ru_dui_lie" cacheable="180000">
+            <condition field="destination_number" expression="{{ did_queue.did|safe }}">
+                <action application="set" data="caller_id_name=CSV_Call_Center"/>
+                <action application="set" data="caller_id_number={{ did_queue.queue|safe }}"/>
+                <action application="set" data="a_answer_bool=yes"/>
+                <action application="set" data="call_type=queue_inbound"/>
+                <action application="set" data="product_code={{ did_queue.group|safe }}"/>
+                <action application="set" data="leg_type=a"/>
+                <action application="set" data="cc_export_vars=_nolocal_leg_type=b"/>
+                <action application="set" data="cc_export_vars=api_on_answer=uuid_setvar ${uuid} b_answer_bool yes"/>
+                <action application="set" data="cc_export_vars=execute_on_answer=set record_url=$${nginx_url}/${cc_record_filename},set record_path=${cc_record_filename}"/>
+                <action application="set" data="cc_export_vars=caller_id_name,caller_id_number,call_type,product_code"/>
+                <action application="set" data="cc_bridge_failed_outbound_announce=tone_stream://%(250,250,425);loops=3"/>
+                <action application="lua" data="number_encrypt.lua ${destination_number}"/>
+                <action application="callcenter" data="{{ did_queue.queue|safe|lower }}_{{ did_queue.group|safe|lower }}"/>
+                <action application="set" data="hangup_leg=b"/>
+            </condition>
+        </extension>
+        {% endfor %}
+
+    </context>
+</section>
+</document>
