@@ -1,7 +1,3 @@
-import hashlib
-
-md5=hashlib.md5()
-
-md5.update(b'test')
-
-print (md5.hexdigest())
+menus='1,2,3,4,5'
+menus_list=menus.split(',')
+print(menus_list)

@@ -96,6 +96,8 @@ def tiers_list():
             return_data['msg']='Query OK'
             return_data['data']=list[0:-1]
             return_data['total']=list[-1]
+            return_data['page_size']=r_data['page_size']
+            return_data['page_index']=r_data['page_index']
             return return_data,200
     else:
         return_data['msg']='Auth Fail'

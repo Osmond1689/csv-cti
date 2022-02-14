@@ -1,26 +1,22 @@
-[2022-02-08 16:23:13,889][md5_token.py:25][INFO][140311359645440] - 鉴权时间戳是:1644308580 1644308520
-[2022-02-08 16:23:13,910][agents.py:101][DEBUG][140311359645440] - /agents-list/ 数据库操作失败：(psycopg2.ProgrammingError) can't adapt type 'builtin_function_or_method'
-[SQL: SELECT agents.id AS agents_id, agents.name AS agents_name, agents."group" AS agents_group, agents.password AS agents_password, agents.instance_id AS agents_instance_id, agents.uuid AS agents_uuid, agents.type AS agents_type, agents.contact AS agents_contact, agents.status AS agents_status, agents.state AS agents_state, agents.max_no_answer AS agents_max_no_answer, agents.wrap_up_time AS agents_wrap_up_time, agents.reject_delay_time AS agents_reject_delay_time, agents.busy_delay_time AS agents_busy_delay_time, agents.no_answer_delay_time AS agents_no_answer_delay_time, agents.last_bridge_start AS agents_last_bridge_start, agents.last_bridge_end AS agents_last_bridge_end, agents.last_offered_call AS agents_last_offered_call, agents.last_status_change AS agents_last_status_change, agents.no_answer_count AS agents_no_answer_count, agents.calls_answered AS agents_calls_answered, agents.talk_time AS agents_talk_time, agents.ready_time AS agents_ready_time, agents.external_calls_count AS agents_external_calls_count 
-FROM agents 
-WHERE agents."group" = %(group_1)s ORDER BY agents.id DESC 
+[2022-02-14 16:15:50,261][md5_token.py:25][INFO][140583775483648] - 鉴权时间戳是:1644826500 1644826440
+[2022-02-14 16:15:50,275][groups.py:89][DEBUG][140583775483648] - /groups-list/ 数据库操作失败：(psycopg2.errors.UndefinedColumn) column groups.token does not exist
+LINE 1: ....id AS groups_id, groups."group" AS groups_group, groups.tok...
+                                                             ^
+
+[SQL: SELECT groups.id AS groups_id, groups."group" AS groups_group, groups.token AS groups_token, groups.key AS groups_key, groups.iv AS groups_iv, groups.mark AS groups_mark 
+FROM groups ORDER BY groups.id DESC 
  LIMIT %(param_1)s OFFSET %(param_2)s]
-[parameters: {'group_1': <built-in method upper of str object at 0x7f9c9fb68e70>, 'param_1': 10, 'param_2': 0}]
+[parameters: {'param_1': 16, 'param_2': 0}]
 (Background on this error at: https://sqlalche.me/e/14/f405)
-[2022-02-08 16:23:18,980][md5_token.py:25][INFO][140311359645440] - 鉴权时间戳是:1644308580 1644308520
-[2022-02-08 16:23:19,030][agents.py:105][INFO][140311359645440] - /agents-list/ 查询成功
-[2022-02-08 16:23:44,402][md5_token.py:25][INFO][140311359645440] - 鉴权时间戳是:1644308580 1644308520
-[2022-02-08 16:23:44,434][agents.py:45][INFO][140311359645440] - /agents-add/ 添加成功
-[2022-02-08 16:23:44,651][md5_token.py:25][INFO][140311359645440] - 鉴权时间戳是:1644308580 1644308520
-[2022-02-08 16:23:44,667][agents.py:105][INFO][140311359645440] - /agents-list/ 查询成功
-[2022-02-08 16:23:58,300][md5_token.py:25][INFO][140311359645440] - 鉴权时间戳是:1644308580 1644308520
-[2022-02-08 16:23:58,320][agents.py:45][INFO][140311359645440] - /agents-add/ 添加成功
-[2022-02-08 16:23:58,503][md5_token.py:25][INFO][140311359645440] - 鉴权时间戳是:1644308580 1644308520
-[2022-02-08 16:23:58,520][agents.py:105][INFO][140311359645440] - /agents-list/ 查询成功
-[2022-02-08 16:37:13,087][md5_token.py:25][INFO][140311359645440] - 鉴权时间戳是:1644309420 1644309360
-[2022-02-08 16:37:14,828][md5_token.py:25][INFO][140311359645440] - 鉴权时间戳是:1644309420 1644309360
-[2022-02-08 16:37:16,490][md5_token.py:25][INFO][140311359645440] - 鉴权时间戳是:1644309420 1644309360
-[2022-02-08 16:37:17,937][md5_token.py:25][INFO][140311359645440] - 鉴权时间戳是:1644309420 1644309360
-[2022-02-08 16:37:18,967][md5_token.py:25][INFO][140311359645440] - 鉴权时间戳是:1644309420 1644309360
-[2022-02-08 16:37:19,851][md5_token.py:25][INFO][140311359645440] - 鉴权时间戳是:1644309420 1644309360
-[2022-02-08 16:37:20,718][md5_token.py:25][INFO][140311359645440] - 鉴权时间戳是:1644309420 1644309360
-[2022-02-08 16:37:21,788][md5_token.py:25][INFO][140311359645440] - 鉴权时间戳是:1644309420 1644309360
+[2022-02-14 16:16:04,429][md5_token.py:25][INFO][140583775483648] - 鉴权时间戳是:1644826560 1644826500
+[2022-02-14 16:16:04,435][groups.py:89][DEBUG][140583775483648] - /groups-list/ 数据库操作失败：(psycopg2.errors.UndefinedColumn) column groups.token does not exist
+LINE 1: ....id AS groups_id, groups."group" AS groups_group, groups.tok...
+                                                             ^
+
+[SQL: SELECT groups.id AS groups_id, groups."group" AS groups_group, groups.token AS groups_token, groups.key AS groups_key, groups.iv AS groups_iv, groups.mark AS groups_mark 
+FROM groups ORDER BY groups.id DESC 
+ LIMIT %(param_1)s OFFSET %(param_2)s]
+[parameters: {'param_1': 16, 'param_2': 0}]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+[2022-02-14 16:16:26,386][md5_token.py:25][INFO][140583775483648] - 鉴权时间戳是:1644826560 1644826500
+[2022-02-14 16:16:26,422][dids.py:93][INFO][140583775483648] - /dids-list/ 查询成功

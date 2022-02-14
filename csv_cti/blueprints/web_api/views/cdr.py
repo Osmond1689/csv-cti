@@ -45,6 +45,8 @@ def cdr_list():
             return_data['totalDuration']=dict.get('totalDuration')
             return_data['totalBillsec']=dict.get('totalBillsec')
             return_data['totalAnswer']=dict.get('totalAnswer')
+            return_data['page_size']=r_data['page_size']
+            return_data['page_index']=r_data['page_index']
             return return_data,200
     else:
         return_data['msg']='Auth Fail'

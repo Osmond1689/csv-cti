@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="freeswitch/xml">
+<include>
+{% for gateway in gateways %}
+  <gateway name="{{ gateway.name }}">
+    <param name="realm" value="{{ gateway.realm }}"/>
+    <param name="register" value="false"/>
+  </gateway>
+{% endfor %}
+</include>
